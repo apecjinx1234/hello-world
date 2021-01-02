@@ -1,2 +1,2 @@
 # hello-world
-First time
+Nothing is true, everything is permitted.
